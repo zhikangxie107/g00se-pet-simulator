@@ -1,0 +1,111 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: auto;
+  bottom: 200px;
+  position: relative;
+}
+
+#currency{
+  font-size: 30px;
+  position: relative;
+  left: -620px;
+}
+#grass{
+  font-size: 30px;
+  position: relative;
+  left: -620px;
+}
+#feed{
+  width: 150px;
+  height: 75px;
+  position: relative;
+  bottom: 200px;
+  right: 0px;
+}
+#sell{
+  width: 150px;
+  height: 125px;
+  position: relative;
+  bottom: 500px;
+  right: 700px;
+}
+body{
+  background-color: skyblue
+}
+
+.right{
+  width: 150px;
+  height: 50px;
+  position: relative;
+  bottom: 400px;
+  left: 900px;
+}
+.right2{
+  width: 150px;
+  height: 50px;
+  position: relative;
+  bottom: 450px;
+  left: 745px;
+}
+.right3{
+  width: 150px;
+  height: 50px;
+  position: relative;
+  bottom: 500px;
+  left: 592px;
+}
+
+#farmName{
+  font-size: 40px;
+  position: relative;
+  top: -50px;
+  left: 440px;
+}
+
+#grassName{
+  font-size: 30px;
+  position: relative;
+  top: -70px;
+  left: 440px;
+}
+
+#upgrade_quality{
+  width: 150px;
+  height: 100px;
+  position: relative;
+  bottom: 180px;
+  left: 135px;
+}
+#upgrade_growth{
+  width: 150px;
+  height: 100px;
+  position: relative;
+  bottom: 300px;
+  left: -20px;
+}
+
+#gooseName{
+  font-size: 40px;
+  position: relative;
+  bottom: 300px;
+}
+
+#sellAll{
+  width: 150px;
+  height: 125px;
+  position: relative;
+  bottom: 350px;
+  right: 853px;
+}

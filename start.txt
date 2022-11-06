@@ -1,0 +1,6 @@
+<div id='start'><font size="+3">GOOSE</font></div><br/> 
+<label for="name">Name Your Goose</label><br>
+<input type="text" id="nym"><br><br>
+<button type="button" onclick="loadName();">Submit</button><br><br>
+<button id="playGame" onclick="loadGame();">PLAY</button>
+<img id="egg" src="egg.png">

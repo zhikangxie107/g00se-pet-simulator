@@ -1,0 +1,21 @@
+
+<p id="currency">currency: </p>
+<p id="grass">grass: </p>
+<p id="farmName">Farm</p>
+<p id="grassName">clover</p>
+<p id="gooseName">gooseName</p>
+<audio id="honkAudio" <source src= "honk-sound.mp3" type="audio/ogg"></audio>
+
+<img id="goose" src='goose_high.png' class="center" onClick="">
+<img src='Grass1.png' class="right" onClick="produce_grass()" >
+<img src='Grass1.png' class="right2" onClick="produce_grass()">
+<img src='Grass1.png' class="right3" onClick="produce_grass()">
+    
+<button id="feed" onClick="feed_goose()" >Feed</button>
+<button id="sell" onClick="sell_grass()" >Sell</button>
+<button id="sellAll" onClick="sell_all_grass()" >Sell All</button>
+<button id="upgrade_quality" onClick="upgrade_quality()">Upgrade quality button <br>Level: 1</br></button>
+<button id="upgrade_growth" onClick="upgrade_growth()">Upgrade growth button <br>Level: 1</br></button>
+    
+
+<script src ="script.js"></script>
